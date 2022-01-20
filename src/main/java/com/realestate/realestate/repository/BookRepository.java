@@ -1,6 +1,6 @@
 package com.realestate.realestate.repository;
 
-import in.bushansirgur.onlinebookstore.entity.Book;
+import com.realestate.realestate.entity.Book;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
